@@ -1,0 +1,4 @@
+ID,email,firtname,lastname,country,createon,deliverydate,orderstatus_code,imageurl
+001,natalia@email.com,Natalia,Madera,Colombia,2025-06-09,2025-06-10,Low Availability,https://acortar.link/bveyLr
+002,juanda@email.com,JuanDa,London,Colombia,2025-06-10,2025-06-11,Out Of Stock,https://acortar.link/w4sgrz
+003,carlos@email.com,Carlos,Gomez,Mexico,2025-06-08,2025-06-12,In Stock,https://acortar.link/x9kqmn
