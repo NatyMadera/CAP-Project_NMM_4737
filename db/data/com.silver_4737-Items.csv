@@ -2,3 +2,20 @@ ID,name,description,releasedate,discontinueddate,price,currency_code,height,widt
 1001,Smartphone X,Flagship smartphone,2024-01-15,2023-12-01,999.99,USD,0.75,3.0,6.2,1,CM,002
 1002,Wireless Charger,Fast charging pad,2023-12-01,2023-12-02,49.99,USD,0.5,10.0,10.0,1,CM,001
 1003,Bluetooth Headphones,Noise cancelling,2023-11-20,2023-12-03,199.99,EUR,18.5,16.5,7.0,1,CM,001
+1004,Smartwatch Pro,Advanced health tracking,2024-02-10,2023-12-04,299.99,USD,0.45,4.0,3.5,1,CM,002
+1005,Tablet Lite,10-inch display,2023-12-15,2023-12-05,349.99,EUR,0.9,24.0,16.5,1,CM,003
+1006,Power Bank 10000mAh,Portable charger,2023-10-05,2023-12-06,29.99,USD,0.25,10.0,5.0,1,CM,001
+1007,Gaming Laptop,RTX 4070,16GB RAM,2024-03-01,2023-12-07,1499.99,USD,2.5,35.0,25.0,1,CM,003
+1008,Smart Speaker,Voice assistant,2023-09-15,2023-12-08,129.99,EUR,1.1,15.0,15.0,1,CM,001
+1009,4K Camera,Professional DSLR,2024-01-30,2023-12-09,899.99,USD,1.8,14.0,10.5,1,CM,002
+1010,Fitness Tracker,Heart rate monitor,2023-11-10,2023-12-10,79.99,USD,0.3,4.0,1.5,1,CM,002
+1011,External SSD 1TB,High-speed storage,2024-02-20,2023-12-11,129.99,EUR,0.1,8.5,5.0,1,CM,001
+1012,Wireless Keyboard,Slim design,2023-12-01,2023-12-12,59.99,USD,0.6,35.0,12.0,1,CM,001
+1013,VR Headset,Immersive experience,2024-04-05,2023-12-13,499.99,USD,0.8,20.0,15.0,1,CM,003
+1014,Earbuds Pro,Crystal clear sound,2023-10-20,2023-12-14,159.99,EUR,0.15,5.0,4.0,1,CM,001
+1015,Mini Projector,Portable HD,2024-03-15,2023-12-15,279.99,USD,1.2,15.0,15.0,1,CM,003
+1016,Smart Light Bulb,RGB colors,2023-09-01,2023-12-16,19.99,USD,0.2,6.0,6.0,1,CM,001
+1017,Graphic Tablet,Digital drawing,2024-01-10,2023-12-17,199.99,EUR,0.7,30.0,20.0,1,CM,002
+1018,Docking Station,6-in-1 hub,2023-11-15,2023-12-18,89.99,USD,0.4,12.0,8.0,1,CM,001
+1019,Noise Cancelling Mic,Studio quality,2024-02-05,2023-12-19,149.99,USD,0.5,10.0,10.0,1,CM,002
+1020,Electric Kettle,1.7L capacity,2023-12-10,2023-12-20,39.99,EUR,1.0,20.0,15.0,1,CM,004
